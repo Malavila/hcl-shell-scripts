@@ -1,6 +1,4 @@
 #!/bin/bash
-echo "Enter a number [0-11]"
-read n
 case $n in
         0)
                 echo "January" ;;
