@@ -24,8 +24,4 @@ case $n in
 		echo "November" ;;
 	11)
 		echo "December" ;;
-		
 esac
-~
-~
-
