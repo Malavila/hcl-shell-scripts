@@ -1,0 +1,7 @@
+ram      manager         account         45000
+sunil    clerk           account         25000
+vijay    manager         account         50000
+amit     manager         account         40000
+sanjay   peon            sales           13000
+~
+
